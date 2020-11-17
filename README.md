@@ -18,3 +18,4 @@
  * *https://www.qodbarbershop.com/agendamento-online/*
  * *https://viacep.com.br/exemplo/javascript/*
  * *https://velhobit.com.br/programacao/carregando-cep-cidades-dinamicamente.html*
+ * *https://buscacep.correios.com.br/app/endereco/index.php*
