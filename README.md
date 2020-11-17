@@ -12,3 +12,9 @@
 ## [Histórias de Usuário](/doc/historia_usuario/README.md)
 
 ## [Prototipação](/doc/prototipacao/README.md)
+
+### Links sugeridos para pesquisa: Professor Gulherme Elias  Fundatec  aula 16/11/2020
+ * *https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet*
+ * *https://www.qodbarbershop.com/agendamento-online/*
+ * *https://viacep.com.br/exemplo/javascript/*
+ * *https://velhobit.com.br/programacao/carregando-cep-cidades-dinamicamente.html*
