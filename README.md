@@ -1,4 +1,4 @@
-## NOME DO PROJETO
+## Schedule Beauty
 <img src="/prototipo_html/logoSchedule.png" width="200" height="200">
 
 ## Metafora Problema
