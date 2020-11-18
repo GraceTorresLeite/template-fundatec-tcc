@@ -1,5 +1,5 @@
 ## NOME DO PROJETO
-![Meu Projeto](https://lh3.googleusercontent.com/proxy/xl5R2qCqkbOjz84JZWtosw5VdihJnbleoCroft7A87-JvIxNVAHf4spVUKyFZ85TjTyvWUjbDlen12rx8nnEDssnHdChUWqPwTy2HhHLiNRoBX8i32Rqv63LFtOeAzWiPYRWhsU "Meu Trabalho TCC" )
+<img src="/prototipo_html/logoSchedule.png" width="200" height="200">
 
 ## Metafora Problema
  - Breve descrição do problema a ser resolvido e enfrentado pelas pessoas
