@@ -1,5 +1,5 @@
-## NOME DO PROJETO
-![Meu Projeto](https://lh3.googleusercontent.com/proxy/xl5R2qCqkbOjz84JZWtosw5VdihJnbleoCroft7A87-JvIxNVAHf4spVUKyFZ85TjTyvWUjbDlen12rx8nnEDssnHdChUWqPwTy2HhHLiNRoBX8i32Rqv63LFtOeAzWiPYRWhsU "Meu Trabalho TCC" )
+## Schedule Beauty
+<img src="/prototipo_html/logoSchedule.png" width="200" height="200">
 
 ## Metafora Problema
  - Breve descrição do problema a ser resolvido e enfrentado pelas pessoas
@@ -12,6 +12,7 @@
 ## [Histórias de Usuário](/doc/historia_usuario/README.md)
 
 ## [Prototipação](/doc/prototipacao/README.md)
+ * *https://gracetorresleite.github.io/template-fundatec-tcc-ScheduleBeauty/prototipo_html/contato_agendado.html*
 
 ### Links sugeridos para pesquisa: Professor Gulherme Elias  Fundatec  aula 16/11/2020
  * *https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet*
@@ -20,3 +21,4 @@
  * *https://velhobit.com.br/programacao/carregando-cep-cidades-dinamicamente.html*
  * *https://buscacep.correios.com.br/app/endereco/index.php*
  * *http://www.linhadecodigo.com.br/artigo/3653/usando-geolocalizacao-com-html5.aspx*
+ * *https://blog.paulagrangeiro.com.br/hospedando-sites-gratuitamente-com-o-github-pages-284aa643db14*
