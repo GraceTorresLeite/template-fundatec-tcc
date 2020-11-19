@@ -70,11 +70,13 @@
                     </div>
                 </div>
                 <fieldset>
-                    <legend style="font-weight:bold" id="demo">Clique no botão para obter sua localização:
-                        <button style="border-radius: 15px" onclick="getLocation()">Clique aqui</button></legend>
-                    <br>
-                    <div id="mapholder"></div>
-                    <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+                    <div>
+                        <legend style="font-weight:bold" id="demo">Clique no botão para obter sua localização:
+                            <button style="border-radius: 15px" onclick="getLocation()">Clique aqui</button></legend>
+                        <div id="mapholder">
+                            <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+                        </div>
+                    </div>
                 </fieldset>
                 <br>
                 <fieldset>
@@ -111,10 +113,10 @@
                 <br>
 
 
-                <table class="margin">
+                <table>
                     <fieldset>
-                        <h3><span style="font-weight:bold">Horários Disponíveis e </span><span style="color:red;font-weight:bold">Horários Ocupados</span></h3>
-                        <p class="indent"><span style="color:blue;font-weight:bold;">Um serviço para cada horário</span></p>
+                        <h3><span style="font-weight:bold">Horários Disponíveis e </span><span style="color:red;font-weight:bold">Ocupados</span></h3>
+                        <p style="margin-left: 10px"><span style="color:blue;font-weight:bold;">Um serviço para cada horário</span></p>
                     </fieldset>
                     <tr>
                         <td style="font-weight:bold">Sábado</td>
@@ -167,16 +169,14 @@
                     </tr>
                 </table>
 
-                <div style="font-weight:bold">
-                    Selecione seu horário: <input type="date" value="data e horário"></input>
+                <div style="font-weight:bold">Selecione seu horário:
+                    <input type="date" value="data e horário"></input>
                     <input type="time"></input>
                 </div>
                 <br>
                 <div class="row">
                     <div class="input-field col s6">
                         <label for="mensagem" style="font-weight:bold">Mensagem</label>
-
-                        <br>
                         <br>
                         <textarea name="textarea" cols="70" rows="10" id="mensagem" id="caixa_mensagem" placeholder="Serviços pequenos como buço, nariz ou axila podem ser adicionados sem precisar reservar novo horário, basta selecionar o serviço principal e nas mensagens escrever qual desejas incluir."
                             required></textarea>
