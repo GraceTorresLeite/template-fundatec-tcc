@@ -20,8 +20,8 @@
 ## [Prototipação](/doc/prototipacao/README.md)
  * *https://gracetorresleite.github.io/template-fundatec-tcc-ScheduleBeauty/prototipo_html/contato_agendado.html*
 
-### Links sugeridos para pesquisa: Professor Gulherme Elias  Fundatec  aula 16/11/2020
- * *https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet*
+### Referências sugeridos para pesquisa: Professor Gulherme Elias  Fundatec  aula 16/11/2020
+ * [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  * *https://www.qodbarbershop.com/agendamento-online/*
  * *https://viacep.com.br/exemplo/javascript/*
  * *https://velhobit.com.br/programacao/carregando-cep-cidades-dinamicamente.html*
