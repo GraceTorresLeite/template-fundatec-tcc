@@ -5,13 +5,13 @@
  
 ## História de Usuário - _três aspectos críticos ( 3Cs)_
 
-### **História: Agenda Realizada**
+### **História: Cliente com autonomia sobre seu agendamento**
 
-**Como um(a)**  prestador de serviço
+**Como um(a)**  cliente
 
-**Quero** que meus clientes tenham acesso rápido, em tempo real e independente a minha agenda do dia liberada
+**Quero** acesso rápido e fácil para o serviço no qual desejo contratar
 
-**Para** para que possam escolher e agendar seu horário, otimizando meu tempo e gerando maior produtividade.
+**Para** garantir meu horário no momento que lembro da necessidade, de forma ágil e em tempo real, independente de um contato direto com o profissional
 
 __
 
