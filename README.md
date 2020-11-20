@@ -18,13 +18,13 @@
 ## [Histórias de Usuário](/doc/historia_usuario/README.md)
 
 ## [Prototipação](/doc/prototipacao/README.md)
- * *https://gracetorresleite.github.io/template-fundatec-tcc-ScheduleBeauty/prototipo_html/contato_agendado.html*
+ * [Schedule-Beauty simulação](https://gracetorresleite.github.io/template-fundatec-tcc-ScheduleBeauty/prototipo_html/contato_agendado.html)
 
-### Referências sugeridos para pesquisa: Professor Gulherme Elias  Fundatec  aula 16/11/2020
+### Referências sugeridas para pesquisa: Professor Gulherme Elias  Fundatec  aula 16/11/2020
  * [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
- * *https://www.qodbarbershop.com/agendamento-online/*
- * *https://viacep.com.br/exemplo/javascript/*
- * *https://velhobit.com.br/programacao/carregando-cep-cidades-dinamicamente.html*
- * *https://buscacep.correios.com.br/app/endereco/index.php*
- * *http://www.linhadecodigo.com.br/artigo/3653/usando-geolocalizacao-com-html5.aspx*
- * *https://blog.paulagrangeiro.com.br/hospedando-sites-gratuitamente-com-o-github-pages-284aa643db14*
+ * [Agendamento-online: exemplo de uso no mercado](https://www.qodbarbershop.com/agendamento-online/)
+ * [Api-viacep](https://viacep.com.br/exemplo/javascript/)
+ * [Tutorial formatação do html para coleta dinâmica de CEP](https://velhobit.com.br/programacao/carregando-cep-cidades-dinamicamente.html)
+ * [Busca-Cep-Correios](https://buscacep.correios.com.br/app/endereco/index.php)
+ * [Geolocalização do Google](http://www.linhadecodigo.com.br/artigo/3653/usando-geolocalizacao-com-html5.aspx)
+ * [Tutorial Git-Pages](https://blog.paulagrangeiro.com.br/hospedando-sites-gratuitamente-com-o-github-pages-284aa643db14)
