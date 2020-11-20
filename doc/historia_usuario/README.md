@@ -46,7 +46,7 @@ __
 
 **Quando**   o cliente estiver com os serivços de dados ou wifi desabilitados ou indisponíveis
 
-**Então**   mesmo que a página carregue devido a mémoria cache do navegador, o formulário de agedamento não será completado o envio
+**Então**   mesmo que a página carregue devido a mémoria cache do navegador, o formulário de agedamento não completará o envio
 
 **E**       uma tela retornará com a notificação padrão de seu navegador quanto a falta de conexão
 
@@ -56,19 +56,19 @@ __
 
 **Dado que** Todos os campos do formulário contidos na aba "AGENDE SEU HORÁRIO" são obrigatórios. Exceto(Complemento,Mensagem)
 
-**Quando**   um ou mais campos não forem informados
+**Quando**   um ou mais campos não forem informados,
 
-**E**        clicado no botão "ENVIAR"
+**E**        clicar no botão "ENVIAR",
 
-**Então**    o sistema apontará no campo expecífico uma caixa de diálogo com a seguinte mensagem "Preencha este campo.", e semelhantemente para cada campo subsequente
+**Então**    o sistema apontará no campo expecífico uma caixa de diálogo com a seguinte mensagem "Preencha este campo.", e semelhantemente para cada campo subsequente.
 
 __
 
 ### **Cenário 5: Cliente preenchendo formulário de agendamento com o campo e-mail inválido**
 
-**Dado que** o cliente digite no formulário um e-mail sem o "@"
+**Dado que** o cliente digita no formulário um e-mail sem o "@",
 
-**Quando**   clicar em "ENVIAR" o formulário de agendamento
+**Quando**   clicar no botão "ENVIAR",
 
 **Então**    uma caixa de diálogo apontando para o devido campo surgirá informando:"Inclua um "@" no endereço de e-mail. "email_digitado.com" está com um "@" faltando. 
 
@@ -76,24 +76,59 @@ __
 
 ### **Cenário 6: Cliente preenchendo formulário de agendamento com o campo cep inválido**
 
-**Dado que** o cliente digite números (faltantes, a mais que o esperado ou que não contenha na base de dados da API utilizada) 
+**Dado que** o cliente digita números (faltantes, a mais que o esperado ou que não contenha na base de dados da API utilizada), 
 
-**Quando**   clicar em "ENVIAR" o formulário de agendamento
+**Quando**   clicar no botão "ENVIAR",
 
-**Então**    um alerta será emitido pelo sistema com a seguinte mensagem "CEP não encontrado. + botão [OK]"
+**Então**    um alerta será emitido pelo sistema com a seguinte mensagem "CEP não encontrado. + botão [OK]" para fechar a messagem.
 
 __
 
 ### **Cenário 7: Agendamento realizado com sucesso**
 
-**Dado que** cliente está com internet e com o acesso do site em seu navegador 
+**Dado que** cliente está com internet e com o endereço do site em seu navegador,
 
-**Quando**   preenchido os dados como: Nome, Telefone, E-mail, Endereço, Serviço, Dia e Horário;
+**Quando**   preenchido os dados como: Nome, Telefone, E-mail, Endereço, Serviço, Dia e Horário,
 
-**E**    clicar em "Enviar"
+**E**    clicar no botão "Enviar",
 
-**Então**  Uma mensagem aparecerá para que aguarde a confirmação do prestador de serviço e seu horário ficará temporariamente reservado(cor Amarela). Se o cliente não informou a opção de confirmação, o e-mail será a opção padrão.
+**Então**  Uma mensagem aparecerá para que aguarde a confirmação do prestador de serviço e seu horário ficará temporariamente reservado(cor Amarela). 
 
 __
+
+### **Cenário 8: Agendamento transição de status "BRANCO para AMARELO**
+
+**Dado que** o horário está na cor branca indicando agendamento disponível,
+
+**Quando**   o cliente indicar seus dados,serviço, data e horário
+
+**E**    clicar no botão "Enviar",
+
+**Então**  seu horário ficará temporariamente reservado, indicado pela cor amarela. 
+
+__
+
+### **Cenário 9 : Agendamento transição de status "AMARELO para VERMELHO**
+
+**Dado que** o horário está na cor amarela indicando agendamento reservado,
+
+**Quando**   o cliente receber a confirmação do prestador de serviço,
+
+**Então**  seu horário ficará ocupado, indicado pela cor vermelha. 
+
+__
+
+### **Cenário 10 : Agendamento transição de status "VERMELHO para BRANCO**
+
+**Dado que** o sistema não habilita edição após envio do agendamento por não exigir autenticação de cada usuário perfil cliente,
+
+**E** o horário está na cor vermelha indicando agendamento ocupado,
+
+**Quando**   o cliente deste agendamento manifestar desistência,
+
+**Então**  o cliente deverá entrar em contato com seu prestador de serviço.
+
+__
+
 
 ### **História 2: [Prestador de serviço recebe agendamentos realizados por seus clientes](/doc/historia_usuario/Historia_usuario_prestador_de_servico.md)**
