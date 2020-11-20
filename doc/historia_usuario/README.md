@@ -1,5 +1,5 @@
 ## Mapeamento das Personas
- - Consumidor: Cliente que irá consumir os serviços
+ - Cliente: Quem irá consumir os serviços
  
  - Prestador de Serviço: Quem irá executar os serviços e que se deslocará ao local indicado pelo cliente.
  
@@ -18,7 +18,7 @@ __
 
 ## CENÁRIOS
 
-**Cenário 1: Cliente com conexão na internet**
+### **Cenário 1: Cliente com conexão na internet**
 
 **Dado que** a agenda utiliza a navegação para executar a marcação em tempo real 
 
@@ -30,7 +30,7 @@ __
 
 __
 
-**Cenário 2: Agendamento conectado na internet primeiro acesso do cliente**
+### **Cenário 2: Agendamento conectado na internet primeiro acesso do cliente**
 
 **Dado que**  os atendimentos possuem flexibilidade de endereço, o mesmo será informado no momento de cada agendamento
 
@@ -40,7 +40,7 @@ __
 
 __
 
-**Cenário 3: Agendamento desconectado da internet**
+### **Cenário 3: Agendamento desconectado da internet**
 
 **Dado que** a agenda utiliza a navegação para executar a marcação em tempo real  
 
@@ -52,7 +52,7 @@ __
 
 __
 
-**Cenário 4: Cliente preenchendo formulário de agendamento com campos nulos**
+### **Cenário 4: Cliente preenchendo formulário de agendamento com campos nulos**
 
 **Dado que** Todos os campos do formulário contidos na aba "AGENDE SEU HORÁRIO" são obrigatórios. Exceto(Complemento,Mensagem)
 
@@ -64,7 +64,7 @@ __
 
 __
 
-**Cenário 5: Cliente preenchendo formulário de agendamento com o campo e-mail inválido**
+### **Cenário 5: Cliente preenchendo formulário de agendamento com o campo e-mail inválido**
 
 **Dado que** o cliente digite no formulário um e-mail sem o "@"
 
@@ -74,7 +74,7 @@ __
 
 __
 
-**Cenário 6: Cliente preenchendo formulário de agendamento com o campo cep inválido**
+### **Cenário 6: Cliente preenchendo formulário de agendamento com o campo cep inválido**
 
 **Dado que** o cliente digite números (faltantes, a mais que o esperado ou que não contenha na base de dados da API utilizada) 
 
@@ -84,7 +84,7 @@ __
 
 __
 
-**Cenário 7: Agendamento realizado com sucesso**
+### **Cenário 7: Agendamento realizado com sucesso**
 
 **Dado que** cliente está com internet e com o acesso do site em seu navegador 
 
