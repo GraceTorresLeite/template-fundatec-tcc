@@ -1,7 +1,7 @@
 ## Schedule Beauty
 <img src="/prototipo_html/logoSchedule.png" width="200" height="200">
 
-## Metafora Problema
+## Problema
  - O prestador de serviço tem tido dificuldades em ser mais dinâmico ao agendar seus serviços junto ao seu cliente, devido inúmeros fatores que ocorrem durante o dia a comunicação efetiva para marcar um horário tem passado por vários desencontros, ocasionando a perda deste cliente para outro profissional.
 
 ## Descrição da solução
