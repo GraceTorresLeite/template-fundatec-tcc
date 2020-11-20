@@ -84,7 +84,7 @@ __
 
 __
 
-### **Cenário 7: Agendamento realizado com sucesso**
+### **Cenário 7: Agendamento enviado com sucesso**
 
 **Dado que** cliente está com internet e com o endereço do site em seu navegador,
 
@@ -96,7 +96,32 @@ __
 
 __
 
-### **Cenário 8: Agendamento transição de status "BRANCO para AMARELO**
+### **Cenário 8: Agendamento confirmado**
+
+**Dado que** está aguardando confirmação (status amarelo),
+
+**Quando**   receber a confirmação por e-mail,
+
+**E**       for de aceitação,
+
+**Então**  uma mesagem padrão será visualizada "Seu horário foi confirmado "data e horário", obrigado!" 
+
+__
+
+### **Cenário 9: Agendamento recusado**
+
+**Dado que** está aguardando confirmação (status amarelo),
+
+**Quando**   receber a confirmação por e-mail,
+
+**E**       for de recusa,
+
+**Então**  uma mesagem padrão será visualizada "Seu horário foi recusado "data e horário". Motivo: "mensagem dada pelo prestador".
+
+__
+
+
+### **Cenário 10: Agendamento transição de status "BRANCO para AMARELO**
 
 **Dado que** o horário está na cor branca indicando agendamento disponível,
 
@@ -108,7 +133,7 @@ __
 
 __
 
-### **Cenário 9 : Agendamento transição de status "AMARELO para VERMELHO**
+### **Cenário 11 : Agendamento transição de status "AMARELO para VERMELHO**
 
 **Dado que** o horário está na cor amarela indicando agendamento reservado,
 
@@ -118,7 +143,7 @@ __
 
 __
 
-### **Cenário 10 : Agendamento transição de status "VERMELHO para BRANCO**
+### **Cenário 12 : Agendamento transição de status "VERMELHO para BRANCO**
 
 **Dado que** o sistema não habilita edição após envio do agendamento por não exigir autenticação de cada usuário perfil cliente,
 
