@@ -96,4 +96,4 @@ __
 
 __
 
-### **História 2: [Prestador de serviço recebe agendamentos realizados por seus clientes](/Historia_usuario_prestador_de_servico.md)**
+### **História 2: [Prestador de serviço recebe agendamentos realizados por seus clientes](/doc/historia_usuario/Historia_usuario_prestador_de_servico.md)**
