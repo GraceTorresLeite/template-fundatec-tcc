@@ -1,4 +1,4 @@
-## **História 2: Prestador de serviço recebe agendamentos realizados por seus clientes**
+## **História 2: Prestador de serviço gerencia seus horários e recebe agendamentos de clientes**
 
 **Como um(a)**  prestador de serviço,
 
