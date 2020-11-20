@@ -1,4 +1,4 @@
-# Link Protótipo em html 
+# Protótipos 1 e 2 
 
 <img src="/prototipo_html/logoSchedule.png" width="200" height="200">
 
