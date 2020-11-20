@@ -90,33 +90,33 @@ __
 
 **Quando**   preenchido os dados como: Nome, Telefone, E-mail, Endereço, Serviço, Dia e Horário,
 
-**E**    clicar no botão "Enviar",
+**E**        clicar no botão "Enviar",
 
-**Então**  Uma mensagem aparecerá para que aguarde a confirmação do prestador de serviço e seu horário ficará temporariamente reservado(cor Amarela). 
+**Então**    Uma mensagem aparecerá para que aguarde a confirmação do prestador de serviço e seu horário ficará temporariamente reservado(cor Amarela). 
 
 __
 
 ### **Cenário 8: Agendamento confirmado**
 
-**Dado que** está aguardando confirmação (status amarelo),
+**Dado que**  o cliente está aguardando confirmação (status amarelo),
 
-**Quando**   receber a confirmação por e-mail,
+**Quando**    receber a confirmação por e-mail,
 
-**E**       for de aceitação,
+**E**         for de aceitação,
 
-**Então**  uma mesagem padrão será visualizada "Seu horário foi confirmado "data e horário", obrigado!" 
+**Então**     uma mesagem padrão será visualizada "Seu horário foi confirmado "data e horário", obrigado!" 
 
 __
 
 ### **Cenário 9: Agendamento recusado**
 
-**Dado que** está aguardando confirmação (status amarelo),
+**Dado que**  o cliente está aguardando confirmação (status amarelo),
 
-**Quando**   receber a confirmação por e-mail,
+**Quando**    receber a confirmação por e-mail,
 
-**E**       for de recusa,
+**E**         for de recusa,
 
-**Então**  uma mesagem padrão será visualizada "Seu horário foi recusado "data e horário". Motivo: "mensagem dada pelo prestador".
+**Então**     uma mesagem padrão será visualizada "Seu horário foi recusado "data e horário". Motivo: "mensagem dada pelo prestador".
 
 __
 
@@ -127,31 +127,33 @@ __
 
 **Quando**   o cliente indicar seus dados,serviço, data e horário
 
-**E**    clicar no botão "Enviar",
+**E**        clicar no botão "Enviar",
 
-**Então**  seu horário ficará temporariamente reservado, indicado pela cor amarela. 
+**Então**    seu horário ficará temporariamente reservado, indicado pela cor amarela. 
 
 __
 
 ### **Cenário 11 : Agendamento transição de status "AMARELO para VERMELHO**
 
-**Dado que** o horário está na cor amarela indicando agendamento reservado,
+**Dado que** o cliente está com horário na cor amarela indicando agendamento reservado,
 
-**Quando**   o cliente receber a confirmação do prestador de serviço,
+**Quando**   o cliente receber a confirmação de aceite do prestador de serviço,
 
-**Então**  seu horário ficará ocupado, indicado pela cor vermelha. 
+**Então**    seu horário ficará ocupado, indicado pela cor vermelha. 
 
 __
 
-### **Cenário 12 : Agendamento transição de status "VERMELHO para BRANCO**
+### **Cenário 12 : Agendamento transição de status "VERMELHO para BRANCO" desistência**
 
 **Dado que** o sistema não habilita edição após envio do agendamento por não exigir autenticação de cada usuário perfil cliente,
 
-**E** o horário está na cor vermelha indicando agendamento ocupado,
+**E**        o cliente manifestar desistência de seu agendamento,
 
-**Quando**   o cliente deste agendamento manifestar desistência,
+**Quando**   contatar diretamente seu prestador de serviço,
 
-**Então**  o cliente deverá entrar em contato com seu prestador de serviço.
+**Então**    o cliente receberá um e-mail com a confirmação de cancelamento. " Seu agendamento foi cancelado. Motivo: digitado pelo prestador de serviço",
+
+**E**        o horário atualiza status para disponível (cor branca).
 
 __
 
