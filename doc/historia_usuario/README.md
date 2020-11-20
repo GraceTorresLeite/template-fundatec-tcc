@@ -5,7 +5,7 @@
  
 ## História de Usuário - _três aspectos críticos ( 3Cs)_
 
-### **História: Cliente com autonomia sobre seu agendamento**
+### **História 1: Cliente envia seu horário e serviço desejados ao seu prestador de serviço**
 
 **Como um(a)**  cliente
 
@@ -92,8 +92,8 @@ __
 
 **E**    clicar em "Enviar"
 
-**Então**  Uma mensagem aparecerá para que aguarde a confirmação. Se o cliente não informou a opção de confirmação, o e-mail será a opção padrão.
+**Então**  Uma mensagem aparecerá para que aguarde a confirmação do prestador de serviço e seu horário ficará temporariamente reservado(cor Amarela). Se o cliente não informou a opção de confirmação, o e-mail será a opção padrão.
 
 __
 
-
+### **História 2: [Prestador de serviço recebe agendamentos realizados por seus clientes](/Historia_usuario_prestador_de_servico.md)**
