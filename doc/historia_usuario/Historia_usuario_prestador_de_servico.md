@@ -19,8 +19,6 @@ __
 
 **Então**    o prestador recebe um e-mail para confirmar o agendamento
 
-
-
 __
 
 **Cenário 2: Prestador de serviço responde confirmação de agendamento "ACEITAR"**
@@ -91,7 +89,7 @@ __
 
 ___
 
-*Cenário 7: Agendamento realizado com opção de confirmação por "WHATSAPP"**
+**Cenário 8: Agendamento realizado com opção de confirmação por "WHATSAPP"**
 
 **Dado que** o sistema envia a confirmação por padrão via e-mail
 
