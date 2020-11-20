@@ -113,11 +113,11 @@ __
 
 **E**        escolher o agendamento correspondente da desistência,
 
-**Quando**   clicar na opção deletar contida para cada agendamento existente desta lista,
+**Quando**   aleterar o status para disponível,
 
 **Então**    o agendamento será excluído, enviando a confirmação de cancelamento para o cliente via e-mail.
 
-**E**        e o status voltará para disponível(cor branca).
+**E**        e o horário na agenda atualizará seu status para disponível(cor branca).
 
 __
 
