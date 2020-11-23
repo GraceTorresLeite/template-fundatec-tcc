@@ -5,6 +5,8 @@
  - O prestador de serviço tem tido dificuldades em ser mais dinâmico ao agendar seus serviços junto ao seu cliente, devido inúmeros fatores que ocorrem durante o dia a comunicação efetiva para marcar um horário tem passado por vários desencontros, ocasionando a perda deste cliente para outro profissional.
 
 ## Descrição da solução
+
+ * [Breve apresentação - slides](https://docs.google.com/presentation/d/1L7abRvBpME2A8kKSIExrmsOxsvnbWI3zhwxoRoPVKcw/edit?usp=sharing)
  
 | Prioridade |Objetivo do Produto | Resultado               |
 |------------|--------------------|-------------------------|
