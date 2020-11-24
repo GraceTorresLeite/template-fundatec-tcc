@@ -34,3 +34,6 @@
  
  #### Aula 19/11/2020
   * [Materal com criação em markdown](https://developers.umov.me/)
+  
+  #### Aula 13/11/2020
+   * [Easter-egg](https://tecnoblog.net/325861/o-que-e-easter-egg/)
