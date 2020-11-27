@@ -38,7 +38,7 @@
   #### Aula 23/11/2020
    * [Easter-egg](https://tecnoblog.net/325861/o-que-e-easter-egg/)
    
-  #### Aula 16/11/2020
+  #### Aula 26/11/2020
    * [Modelagem diagrama componentes](https://docs.google.com/document/d/18kiLwILs4GDuEw76dQkWiDkE3cks2yefb4HAdTKFsu8/edit?usp=sharing)
    * [Sugestão: modelo ppt](https://docs.google.com/presentation/d/1SG4QoJ9eoAmBVyjYe-EdgtUrDHuvtxE7vkNeuRsFSEo/edit#slide=id.ga3234027fe_0_125)
 
