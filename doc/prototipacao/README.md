@@ -4,7 +4,7 @@
 
 ## Descrição
 
-  Após submeter o protótipo inicial aos clientes do profissional liberal, cuja idade estava entre 30 a 45 anos, obtivemos um retorno diferente ao submetido na primeira vez.
+  **Pesquisa exploratória fase 2:** Após submeter o protótipo inicial aos clientes do profissional liberal, cuja idade estava entre 30 a 45 anos, obtivemos um retorno diferente ao submetido na primeira vez.
   Com isso, foi elaborado uma nova abordagem na tentativa de aproximar ao desejado pelo usuário na segunda avaliação.
   
  * PRIMEIRO PROTÓTIPO -> com base 100% dos dados obtidos pelo profissional
