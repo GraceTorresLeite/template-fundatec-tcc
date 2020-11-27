@@ -13,7 +13,7 @@
 |     1      |marcar serviço      |Diminuir perda de cliente|
 |     2      |evitar disperdício  |Aumento na produtividade |
 |            |de tempo            |                         |
-|     3      |garantir retorno    |Melhorar SAC             |
+|     3      |garantir retorno    |Melhoria SAC             |
 
 ## [Diagramas](/doc/tecnica/README.md) 
 
