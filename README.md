@@ -22,7 +22,9 @@
 ## [Prototipação](/doc/prototipacao/README.md)
  * [Schedule-Beauty simulação atualizada](https://gracetorresleite.github.io/template-fundatec-tcc-ScheduleBeauty/prototipo_html/contato_agendado.html)
 
-### Referências sugeridas para pesquisa: Professor Gulherme Elias  Fundatec  aula 16/11/2020
+### Referências sugeridas para pesquisa: Professor/Orientador  Guilherme Elias - Fundatec - Disciplina: TCC módulo 2
+
+ #### Aula 16/11/2020
  * [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  * [Agendamento-online: exemplo de uso no mercado](https://www.qodbarbershop.com/agendamento-online/)
  * [Api-viacep](https://viacep.com.br/exemplo/javascript/)
