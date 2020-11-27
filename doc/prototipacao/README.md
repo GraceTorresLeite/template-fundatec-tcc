@@ -15,7 +15,7 @@
 |            |                                                                                                                                        |
 
 
-* SEGUNDO PROTÓTIPO -> com base na perspectiva de clientes deste profissional
+* SEGUNDO PROTÓTIPO -> **Cocriação de crowdsourcing:**  aliado com base na perspectiva de clientes deste profissional
   
 | Ferramenta | URL                                                                                                                            |
 |------------|--------------------------------------------------------------------------------------------------------------------------------|
