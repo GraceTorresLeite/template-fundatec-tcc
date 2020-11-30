@@ -20,7 +20,7 @@
 ## [Histórias de Usuário](/doc/historia_usuario/README.md)
 
 ## [Prototipação](/doc/prototipacao/README.md)
- * [Schedule-Beauty simulação atualizada](https://gracetorresleite.github.io/template-fundatec-tcc-ScheduleBeauty/prototipo_html/contato_agendado.html)
+ * [Schedule-Beauty simulação atualizada](https://gracetorresleite.github.io/template-fundatec-tcc-ScheduleBeauty/prototipo_html/index.html)
 
 ### Referências sugeridas para pesquisa: Professor/Orientador  Guilherme Elias - Fundatec  
 ### Disciplina: TCC módulo 2
