@@ -6,7 +6,7 @@
 
 ## Descrição da solução
 
- * [Breve apresentação - slides](https://docs.google.com/presentation/d/1L7abRvBpME2A8kKSIExrmsOxsvnbWI3zhwxoRoPVKcw/edit?usp=sharing)
+ * [Apresentação - slides](https://docs.google.com/presentation/d/1L7abRvBpME2A8kKSIExrmsOxsvnbWI3zhwxoRoPVKcw/edit?usp=sharing)
  
 | Prioridade |Objetivo do Produto | Resultado               |
 |------------|--------------------|-------------------------|
@@ -34,6 +34,7 @@
  * [Geolocalização do Google](http://www.linhadecodigo.com.br/artigo/3653/usando-geolocalizacao-com-html5.aspx)
  * [Tutorial Git-Pages](https://blog.paulagrangeiro.com.br/hospedando-sites-gratuitamente-com-o-github-pages-284aa643db14)
  * [Editar imagem background](https://www.remove.bg/)
+ * [User-story-mapping](https://plan.io/blog/user-story-mapping/)
  
  #### Aula 19/11/2020
   * [Materal com criação em markdown](https://developers.umov.me/)
