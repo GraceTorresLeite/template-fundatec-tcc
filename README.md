@@ -40,7 +40,7 @@
  #### Aula 19/11/2020
   * [Materal com criação em markdown](https://developers.umov.me/)
   
-  #### Aula 23/11/2020
+  #### Aula 23/11/2020 
    * [Easter-egg](https://tecnoblog.net/325861/o-que-e-easter-egg/)
    
   #### Aula 26/11/2020
@@ -49,4 +49,9 @@
    
   #### Markdown
    * [Emoji](https://gist.github.com/rxaviers/7360908#file-gistfile1-md)
+   * [Syntax](https://docs.github.com/pt/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
+   `<i class="fab fa-github"></i>`
+   * [Autolinked](https://docs.github.com/pt/free-pro-team@latest/github/writing-on-github/autolinked-references-and-urls)
+   
+
 
