@@ -15,7 +15,8 @@
 |            |de tempo            |                         |
 |     3      |garantir retorno    |Melhoria SAC             |
 
-## [Diagramas](/doc/tecnica/README.md) 
+## :chart_with_upwards_trend:[Diagramas](/doc/tecnica/README.md) 
+
 
 ## [Histórias de Usuário](/doc/historia_usuario/README.md)
 
@@ -45,4 +46,7 @@
   #### Aula 26/11/2020
    * [Modelagem diagrama componentes](https://docs.google.com/document/d/18kiLwILs4GDuEw76dQkWiDkE3cks2yefb4HAdTKFsu8/edit?usp=sharing)
    * [Sugestão: modelo ppt](https://docs.google.com/presentation/d/1SG4QoJ9eoAmBVyjYe-EdgtUrDHuvtxE7vkNeuRsFSEo/edit#slide=id.ga3234027fe_0_125)
+   
+  #### Markdown
+   * [Emoji](https://gist.github.com/rxaviers/7360908#file-gistfile1-md)
 
